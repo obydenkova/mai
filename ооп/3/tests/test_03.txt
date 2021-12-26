@@ -1,0 +1,15 @@
+>add trapeze
+1 2 5 5 9 5 11 2
+>add trapeze
+3 4 6 4 7 0 0 0
+>print square
+35.8013
+20
+>print tops
+trapeze: (1 2) (5 5) (9 5) (11 2)
+trapeze: (3 4) (6 4) (7 0) (0 0)
+>print center
+(4, 2)
+(6.5, 3.5)
+>exit
+

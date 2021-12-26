@@ -1,0 +1,14 @@
+>add quadrate
+1 1 3 3 1 3 3 1
+>add quadrate 
+2 0 1 1 2 2 3 1
+>print square
+4
+2
+>print tops
+quadrate: (1, 1) (3, 3) (1, 3) (3, 1) 
+quadrate: (2, 0) (1, 1) (2, 2) (3, 1) 
+>print center
+(2, 2)
+(2, 1)
+>exit

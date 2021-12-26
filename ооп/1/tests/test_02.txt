@@ -1,0 +1,43 @@
+<< означает входные данные, >> - выходные
+
+
+<< operation 1 2 -
+>> Incorrect parameters
+<< compare 1 2 2
+>> Incorrect parameters
+<< create 1 2
+>> Address number 1
+>> Address: 1.1.1.1
+>> Unknown command
+<< create 43
+>> Address number 2
+>> Address: 43.43.43.43
+<< compare > 1 2
+>> 1 2 > false
+<< compare + 1 2
+>> Incorrect parameters
+<< operation > 2 1
+>> Incorrect parameters
+<< operation - 2 4
+>> Incorrect parameters
+<< create 0.0.0.0
+>> Address number 3
+>> Address: 0.0.0.0
+<< create -1.-1.-1.-1
+>> Address number 4
+>> Address: 255.255.255.255
+<< operation - 3 4
+>> 3 - 4
+>> 0.0.0.0
+<< create 5
+>> Address number 5
+>> Address: 5.5.5.5
+<< operation + 1 2 3 4 5
+>> 1 + 2
+>> 44.44.44.44
+>> Unknown command
+<< create 5
+>> Address number 6
+>> Address: 5.5.5.5
+<< compare = 5 6
+>> 5 6 = true
