@@ -1,0 +1,21 @@
+Square [-1 1] [0 2] [1 1] [0 0]
+Center: [0 1]
+Area: 2
+Rectangle [-1 1] [1 3] [2 2] [0 0]
+Center: [0.5 1.5]
+Area: 4
+Trapezoid [-1 1] [0 2] [2 2] [0 0]
+Center: [0.25 1.25]
+Area: 3
+Tuple (As Square) [-1 1] [0 2] [1 1] [0 0]
+Center: [0 1]
+Area: 2
+Tuple (As Rectangle) [-1 1] [1 3] [2 2] [0 0]
+Center: [0.5 1.5]
+Area: 4
+Tuple (As Trapezoid) [-1 1] [0 2] [2 2] [0 0]
+Center: [0.25 1.25]
+Area: 3
+Tuple [-1 1] [1 4] [5 8] [6 2]
+Center: [2.75 3.75]
+Area: 23.5

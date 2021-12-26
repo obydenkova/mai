@@ -1,0 +1,3 @@
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/build/CMakeFiles/rebuild_cache.dir
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/build/CMakeFiles/oop_exercise_04.dir
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/build/CMakeFiles/edit_cache.dir

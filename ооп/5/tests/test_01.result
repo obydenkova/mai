@@ -1,0 +1,45 @@
+1 - push
+2 - top
+3 - pop
+4 - erase_to_num
+5 - insert_to_num
+6 - for_each
+7 - count_if
+0 - exit
+1
+-1 0
+0 1
+1 0
+0 -1
+
+1   
+-2 0
+0 2
+2 0
+0 -2
+
+5
+1
+-3 0
+0 3
+3 0
+0 -3
+2
+Vertices: [ -1 0 ] [ 0 1 ] [ 1 0 ] [ 0 -1 ]
+Area:2
+Center:[ 0 0 ]
+3
+6
+Vertices: [ -3 0 ] [ 0 3 ] [ 3 0 ] [ 0 -3 ]
+Area:18
+Center:[ 0 0 ]
+Vertices: [ -2 0 ] [ 0 2 ] [ 2 0 ] [ 0 -2 ]
+Area:8
+Center:[ 0 0 ]
+4
+1
+2
+Vertices: [ -3 0 ] [ 0 3 ] [ 3 0 ] [ 0 -3 ]
+Area:18
+Center:[ 0 0 ]
+0

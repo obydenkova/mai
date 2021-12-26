@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra  -rdynamic CMakeFiles/oop_exercise_04.dir/main.cpp.o  -o oop_exercise_04 

@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/main.cpp
+iostream
+-
+tuple
+-
+vertex.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/vertex.h
+square.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/square.h
+rectangle.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/rectangle.h
+trapeze.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/trapeze.h
+templates.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/templates.h
+
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/rectangle.h
+algorithm
+-
+iostream
+-
+cmath
+-
+cassert
+-
+vertex.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/vertex.h
+
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/square.h
+algorithm
+-
+iostream
+-
+cmath
+-
+cassert
+-
+vertex.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/vertex.h
+
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/templates.h
+tuple
+-
+type_traits
+-
+vertex.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/vertex.h
+
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/trapeze.h
+algorithm
+-
+iostream
+-
+cmath
+-
+cassert
+-
+vertex.h
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/vertex.h
+
+/home/julia/Загрузки/oop_exercise_04-master (1)/oop_exercise_04-master/vertex.h
+iostream
+-
+

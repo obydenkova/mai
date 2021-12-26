@@ -1,0 +1,9 @@
+Square [0 2] [2 2] [2 0] [0 0]
+Center: [1 1]
+Area: 4
+Rectangle [1 7] [4 7] [4 2] [1 2]
+Center: [2.5 4.5]
+Area: 15
+Trapezoid [2 4] [6 4] [7 1] [1 1]
+Center: [4 2.5]
+Area: 15
