@@ -1,0 +1,9 @@
+add square 2 2 2 2 2 2 2 2
+add rectangle  3 3 3 3 3 3 3 3
+add square  4 4 4 4 4 4 4 4
+add trapezoid 5 5 5 5 5 5 5 5
+add square 2 2 2 2 2 2 2 2
+add rectangle 3 3 3 3 3 3 3 3
+add square 5 5 5 5 5 5 5 5
+add rectangle 6 6 6 6 6 6 6 6
+quit

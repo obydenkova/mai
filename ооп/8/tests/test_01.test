@@ -1,0 +1,4 @@
+add square 0 0 0 0 0 0 0 0
+add rectangle 1 1 1 1 1 1 1 1
+add trapezoid 2 2 2 2 2 2 2 2
+quit

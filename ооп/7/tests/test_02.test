@@ -1,0 +1,6 @@
+create figures1.txt
+print
+add square 0 0 0 0 0 0 0 0
+undo
+print
+exit

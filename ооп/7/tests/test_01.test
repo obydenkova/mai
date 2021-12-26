@@ -1,0 +1,26 @@
+create figures1.txt
+add square 0 0 0 0 0 0 0 0
+add rectangle 0 0 2 0 2 1 0 1
+add trapezoid 0 0 2 0 2 1 0 1
+print
+remove 0
+print
+save
+create figures2.txt
+add square 1 1 1 1 1 1 1 1
+add trapezoid 1 1 1 1 1 1 1 1
+save
+print
+load figures1.txt
+print
+remove 1
+print
+undo
+print
+load figures2.txt
+print
+add square 10 10 10 10 10 10 10 10
+print
+undo
+print
+exit
